@@ -5,9 +5,25 @@
 📈 Breakthroughs in Financial AI one trade at a time<br>👨🏻‍💻 Building the next generation of scalable systems<br>🤖 Passionate, focused and driven with a background in Economics, mathematics enthusiast and an AI specialist<br>🔭 Currently working on a novel Enigma-AI (Stay Tuned)<br>⚡Fun Fact: Would've been a food critic in a different life<br>📜 I speak to computers in more languages than I speak to humans<br> 🤷🏻‍♂️ I tell computers what to do, sometimes they listen<br>
 
 <div align="center">
-<div style="display: flex; align-items: flex-start;"><img height="65" width="65" src="https://cdn.simpleicons.org/nextdotjs/black/white" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="85" /><img height="85" width="100" src="https://cdn.simpleicons.org/go" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="85" /><img height="85" width="65" src="https://cdn.simpleicons.org/pytorch" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="85" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" height="85" /><img height="65" width="65" src="https://cdn.simpleicons.org/tailwindcss" />
+<div style="display: flex; align-items: flex-start;">
+  <a href="https://nextjs.org/"><img height="65" width="65" src="https://cdn.simpleicons.org/nextdotjs/black/white" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="85" /></a>
+  <a href="https://go.dev/"><img height="85" width="100" src="https://cdn.simpleicons.org/go" /></a>
+  <a href="https://react.dev/"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="85" /></a>
+  <a href="https://pytorch.org/"><img height="85" width="65" src="https://cdn.simpleicons.org/pytorch" /></a>
+  <a href="https://prettier.io/"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="85" /></a>
+  <a href="https://isocpp.org/"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" height="85" /></a>
+  <a href="https://tailwindcss.com/><img height="65" width="65" src="https://cdn.simpleicons.org/tailwindcss" /></a>
 </div>
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="85" /><img height="85" width="65" src="https://cdn.simpleicons.org/keras" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="85" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="85" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="85" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="85" /><img height="65" width="65" src="https://cdn.simpleicons.org/lightning" /><img height="65" width="80" src="./icons/mt4_logo.svg" />
+  <div style="display: flex; align-items: flex-start;">
+    <a href="https://www.python.org/"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="85" /></a>
+    <a href="https://keras.io/"><img height="85" width="65" src="https://cdn.simpleicons.org/keras" /></a>
+    <a href="https://restfulapi.net/"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="85" /></a>
+    <a href="https://www.docker.com/"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="85" /></a>
+    <a href="https://www.mysql.com/"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="85" /></a>
+    <a href="https://www.java.com/en/"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="85" /></a>
+    <a href="https://lightning.ai/"><img height="65" width="65" src="https://cdn.simpleicons.org/lightning" /></a>
+    <a href="https://www.metaquotes.net/en/metatrader4"><img height="65" width="80" src="./icons/mt4_logo.svg" /></a>
   </div>
 </div>
 
